@@ -1,10 +1,4 @@
 %% Cheynes-Stokes Simulation
-% Author: Zach Baird
-% Date: May 28, 2018
-% University of Ottawa & Carleton University
-% This program generates a signal which represents Cheynes-Stokes breathing
-% patterns
-
 %% Parameters
 fs=256; % Sampling Rate
 br=15; % Breathing Rate
